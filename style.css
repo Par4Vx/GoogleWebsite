@@ -19,8 +19,8 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0 30px;
-  margin-bottom: 60px;
+  padding: 0 10px;
+  margin-bottom: 10px;
 }
 .text-boxes .text-box{
   height: 380px;
